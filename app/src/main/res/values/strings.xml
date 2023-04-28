@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalendarAppExample</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string-array name="book_or_cancel">
+        <item>Make Booking</item>
+        <item>Cancel Booking</item>
+        <item>--</item>
+    </string-array>
+</resources>
